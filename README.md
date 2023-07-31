@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sameer</h1>
-<h3 align="center">Experienced Django developer skilled in crafting high-performance web applications using the Django framework. Proficient in HTML, CSS, and creating intuitive user interfaces. From small-scale apps to large-scale enterprise solutions, I have a proven track record of delivering successful projects. Expertise in databases, RESTful APIs, and backend technologies ensures seamless functionality. Committed to creating top-notch web applications that exceed client's expectations. Let's collaborate and bring your web project to life!</h3>
 
 - 🔭 I’m currently working on **Waveme**
 
