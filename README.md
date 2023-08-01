@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 💬 Ask me about **python, django & sql queries**
+- 💬 Ask me about **python, django, sql queries and database management**
 
 - 📫 How to reach me **sameerarshad7771@gmail.com**
 
