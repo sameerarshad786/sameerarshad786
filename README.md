@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Waveme<br><br>🌱 I’m currently learning webscraping<br><br>💬 Ask me about python, django, sql queries and database management<br><br>📫 How to reach me sameerarshad7771@gmail.com
+🔭 I’m currently working on my personal project<br><br>🌱 I’m currently learning webscraping<br><br>💬 Ask me about python, django, sql queries and database management<br><br>📫 How to reach me sameerarshad7771@gmail.com
 
 
 ## 🌐 Socials:
