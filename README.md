@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Embarking on an Exciting Journey with My Personal Project!<br><br>🌱 Currently Cultivating Skills in React to Elevate My Project to New Heights!<br><br>💡 Ask Me Anything About Python, Django, SQL Queries, and Mastering the Art of Database Management!<br><br>📬 Reach Out and Connect: sameerarshad7771@gmail.com<br>
+🚀 Embarking on an Exciting Journey with My Personal Project!<br><br>🌱 Currently Cultivating Skills in Webscraping to Elevate My Project to New Heights!<br><br>💡 Ask Me Anything About Python, Django, SQL Queries, and Mastering the Art of Database Management!<br><br>📬 Reach Out and Connect: sameerarshad7771@gmail.com<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sameer-311784182) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18528631) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sameerarshad786) 
